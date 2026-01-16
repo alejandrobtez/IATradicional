@@ -8,5 +8,5 @@ Cada directorio corresponde a una práctica específica y contiene tanto los mat
 
 Navega a la práctica que te interese usando los siguientes enlaces:
 
-* **[Práctica: PokemonFAQ](./PokemonFAQ/README.md)**
+* **[Práctica: PokemonFAQ](./PokemonFAQ)**
     * *Conceptos: Representación del conocimiento, sistemas expertos y lógica simbólica.*
